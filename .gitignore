@@ -2,3 +2,4 @@ db.sqlite3
 __pycache__
 *.pyc
 dfs
+to_do_list.txt
