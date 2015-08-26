@@ -84,9 +84,6 @@ class ListViewTest(TestCase):
         self.assertContains(response, expected_error)
 
 
-
-
-
 class NewListTest(TestCase):
 
     def test_saving_a_POST_request(self):
