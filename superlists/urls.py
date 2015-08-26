@@ -2,6 +2,7 @@ from django.conf.urls import url, include
 from lists import views as list_views
 from lists import urls as list_urls
 
+
 urlpatterns = [
     # Examples:
     url(r'^$', list_views.home_page, name='home'),
